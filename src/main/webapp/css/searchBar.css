@@ -1,0 +1,58 @@
+/*searchBar css*/
+.searchBar{
+    padding-bottom: 10px;
+}
+.searchBar .condition{
+
+}
+.searchBar .condition ul{
+    zoom: 1;
+}
+.searchBar .condition ul:after{
+    content: ' ';
+    display: block;
+    height: 0;
+    clear: both;
+}
+.searchBar .condition ul li{
+    float: left;
+    width: 24.9%;
+    min-width: 200px;
+    padding: 8px 0;
+}
+.searchBar .condition ul li span{
+    float: left;
+    width: 65px;
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+.searchBar .condition ul li input[type=text],.searchBar ul li select{
+    width: 180px;
+}
+.searchBar .buttons{
+    padding-right: 20px;
+    padding-left:10px;
+    text-align: right;
+}
+
+/*.q-fl{*/
+    /*float: left;*/
+/*}*/
+/*.q-clear{*/
+    /*clear:both;*/
+/*}*/
+/*.q-search-bar-condition{*/
+    /*float: left;*/
+    /*width: 200px;*/
+    /*height: 25px;*/
+    /*margin-left: 10px;*/
+    /*margin-top: 10px;*/
+/*}*/
+/*.q-search-bar-condition span{*/
+    /*padding-right: 10px;*/
+/*}*/
+/*.q-search-bar-button{*/
+    /*float: left;*/
+    /*margin-top: 10px;*/
+/*}*/

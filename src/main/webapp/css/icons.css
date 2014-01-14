@@ -1,0 +1,70 @@
+.x-ui-icon {
+	width: 16px;
+	height: 16px;
+	display: block;
+	text-indent: -99999px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+}
+  
+.x-ui-icon-images{background: url(../images/icons/images.png) no-repeat;}
+.x-ui-icon-vcard{background: url(../images/icons/vcard.png) no-repeat;}
+.x-ui-icon-pencil{background: url(../images/icons/pencil.png) no-repeat;}
+.x-ui-icon-bookmark{background: url(../images/icons/bookmark.png) no-repeat;}
+.x-ui-icon-close{background: url(../images/icons/close.png) no-repeat;}
+.x-ui-icon-loading{background: url(../images/icons/loading.gif) no-repeat;}
+.x-ui-icon-anchor{background: url(../images/icons/anchor.png) no-repeat;}
+.x-ui-icon-zoom{background: url(../images/icons/zoom.png) no-repeat;}
+.x-ui-icon-information{background:url(../images/icons/information.png) no-repeat;}
+.x-ui-icon-monitor{background:url(../images/icons/monitor.png) no-repeat;}
+.x-ui-icon-map{background:url(../images/icons/map.png) no-repeat;}
+.x-ui-icon-drive_web{background:url(../images/icons/drive_web.png) no-repeat;}
+.x-ui-icon-bell{background:url(../images/icons/bell.png) no-repeat;}
+.x-ui-icon-flag_red{background:url(../images/icons/flag_red.png) no-repeat;}
+.x-ui-icon-flag_blue{background:url(../images/icons/flag_blue.png) no-repeat;}
+.x-ui-icon-shield{background:url(../images/icons/shield.png) no-repeat;}
+.x-ui-icon-bookopen{background:url(../images/icons/bookopen.png) no-repeat;}
+.x-ui-icon-examfile{background:url(../images/icons/examfile.png) no-repeat;}
+.x-ui-icon-folder_database{background:url(../images/icons/folder_database.png) no-repeat;}
+.x-ui-icon-user{background:url(../images/icons/user.png) no-repeat;}
+.x-ui-icon-add{background:url(../images/icons/add.png) no-repeat;}
+.x-ui-icon-page_white_magnify{background:url(../images/icons/page_white_magnify.png) no-repeat;}
+.x-ui-icon-flag_red{background:url(../images/icons/flag_red.png) no-repeat;}
+.x-ui-icon-mobile{background:url(../images/icons/mobile.png) no-repeat;}
+.x-ui-icon-tick{background:url(../images/icons/tick.png) no-repeat;}
+.x-ui-icon-award_star_bronze_1{background:url(../images/icons/award_star_bronze_1.png) no-repeat;}
+.x-ui-icon-wand{background:url(../images/icons/wand.png) no-repeat;}
+.x-ui-icon-console{background:url(../images/icons/console.png) no-repeat;}
+.x-ui-icon-folder_page{background:url(../images/icons/folder_page.png) no-repeat;}
+.x-ui-icon-page_white_word{background:url(../images/icons/page_white_word.png) no-repeat;}
+.x-ui-icon-page_white_excel{background:url(../images/icons/page_white_excel.png) no-repeat;}
+.x-ui-icon-page_white_text{background:url(../images/icons/page_white_text.png) no-repeat;}
+.x-ui-icon-user_gray{background:url(../images/icons/user_gray.png) no-repeat;}
+.x-ui-icon-wrench{background:url(../images/icons/wrench.png) no-repeat;}
+.x-ui-icon-star{background:url(../images/icons/star.png) no-repeat;}
+.x-ui-icon-cross{background:url(../images/icons/cross.png) no-repeat;}
+.x-ui-icon-tools{background:url(../images/icons/tools.png) no-repeat;}
+.x-ui-icon-rainbow{background:url(../images/icons/rainbow.png) no-repeat;}
+.x-ui-icon-shield{background:url(../images/icons/shield.png) no-repeat;}
+.x-ui-icon-palette{background:url(../images/icons/palette.png) no-repeat;}
+.x-ui-icon-page_white_find{background:url(../images/icons/page_white_find.png) no-repeat;}
+.x-ui-icon-sport_basketball{background:url(../images/icons/sport_basketball.png) no-repeat;}
+.x-ui-icon-sport_soccer{background:url(../images/icons/sport_soccer.png) no-repeat;}
+.x-ui-icon-spellcheck{background:url(../images/icons/spellcheck.png) no-repeat;}
+.x-ui-icon-home{background:url(../images/icons/home.png) no-repeat;}
+.x-ui-icon-page_white_world{background:url(../images/icons/page_white_world.png) no-repeat;}
+.x-ui-icon-lightbulb{background:url(../images/icons/lightbulb.png) no-repeat;}
+.x-ui-icon-id{background:url(../images/icons/id.png) no-repeat;}
+.x-ui-icon-monitor_off{background:url(../images/icons/monitor_off.png) no-repeat;}
+.x-ui-icon-house{background:url(../images/icons/LedIcon_231.png) no-repeat;}
+.x-ui-icon-database_start{background:url(../images/icons/database_start.png) no-repeat;}
+.x-ui-icon-database_stop{background:url(../images/icons/database_stop.png) no-repeat;}
+.x-ui-icon-page_white_link{background:url(../images/icons/page_white_link.png) no-repeat;}
+.x-ui-icon-dashboard{background:url(../images/icons/dashboard.png) no-repeat;}
+.x-ui-icon-inbox_document_text{background:url(../images/icons/inbox-document-text.png) no-repeat;}
+.x-ui-icon-databases{background:url(../images/icons/databases.png) no-repeat;}
+.x-ui-icon-system_monitor{background:url(../images/icons/system_monitor.png) no-repeat;}
+.x-ui-icon-bottle{background:url(../images/icons/bottle.png) no-repeat;}
+.x-ui-icon-zone{background:url(../images/icons/zone.png) no-repeat;}
+.x-ui-icon-users{background:url(../images/icons/users.png) no-repeat;}
+.x-ui-icon-chart{background:url(../images/icons/chart.png) no-repeat;}
